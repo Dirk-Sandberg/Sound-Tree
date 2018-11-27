@@ -1,6 +1,8 @@
 # Sound-Tree
 Soundboard made in python with unique organization structure
+
 Video example: https://www.youtube.com/watch?v=_3aXlMwmqxA
+
 Run the script using 'python sound_tree.py' from the command line.
 
 Download a virtual cable (https://www.vb-audio.com/Cable/) and it will pipe the audio to the virtual cable. Then make the virtual cable the input in some other program or game you're using, and you can use the soundboard as the input to that application!
